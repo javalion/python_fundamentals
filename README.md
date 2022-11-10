@@ -6,3 +6,4 @@ concepts such as data types, conditions and loops.
 
 ## Core Concepts
 - Data Types
+- Conditions
