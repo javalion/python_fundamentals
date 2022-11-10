@@ -3,3 +3,6 @@ Python Fundamentals
 ---
 The Python Fundamentals repository contains python files that demonstrate core Python
 concepts such as data types, conditions and loops.
+
+## Core Concepts
+- Data Types
